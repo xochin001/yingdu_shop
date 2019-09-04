@@ -1,0 +1,35 @@
+@font-face {
+font-family: "iconfont";
+src:url('~@/iconfont/iconfont.ttf');
+  
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 28px;
+  color: #A5663E;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icontousujianyi-copy:before {
+  content: "\e600";
+}
+
+.iconwodehuodong:before {
+  content: "\e81d";
+}
+
+.iconhuiyuanjifen:before {
+  content: "\e620";
+}
+
+.iconwodeqiaquan:before {
+  content: "\e691";
+}
+
+.iconconfig--shixin:before {
+  content: "\e601";
+}
+

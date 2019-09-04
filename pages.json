@@ -1,0 +1,50 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "英度云商"
+			}
+			
+		},{
+			"path": "pages/benefits/benefits"
+			
+		},{
+			"path": "pages/shops/shops"
+		}
+		
+	    ,{
+            "path" : "pages/user/user"
+        }
+        ,{
+            "path" : "pages/point/point",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/card/card",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/promotion/promotion",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/regist/regist",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ suggest/ suggest",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/ picture/ picture",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "英度云商",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
